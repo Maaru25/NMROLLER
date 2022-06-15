@@ -1,7 +1,7 @@
 # NMROLLER
 PP3 IFTS18 
 # ANTEPROYECTO
-El anteproyecto está definido en este [documento](https://docs.google.com/document/d/1dmddndLSnErcP5rHS86gwvwr6gpWCTOGPIH-cEbTAps/edit)
+El anteproyecto está definido en este [documento](https://docs.google.com/document/d/1dmddndLSnErcP5rHS86gwvwr6gpWCTOGPIH-cEbTAps/edit?usp=sharing)
 # MOCKUP
 En la carpeta [`mockup`](/mockup/) se encuentran el mockup de la app
 # HISTORIAS DE USUARIO
