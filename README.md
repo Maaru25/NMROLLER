@@ -5,4 +5,4 @@ El anteproyecto está definido en este [documento](https://docs.google.com/docum
 # MOCKUP
 En la carpeta [`mockup`](/mockup/) se encuentran el mockup de la app
 # HISTORIAS DE USUARIO
-En el proyecto [`User Stories NMROLLER.xlsx`] se pueden ver las historias de usuario de esta app
+En el proyecto [`User Stories NMROLLER`] (User Stories NMROLLER.xlsx) se pueden ver las historias de usuario de esta app
